@@ -1,0 +1,67 @@
+{
+	"allocations": [
+		{
+			"date": "2024-09-20",
+			"bays": {
+				"12": {
+					"name": "Cam",
+					"picture": "assets/cam.png"
+				},
+				"14": {
+					"name": "Frans",
+					"picture": "assets/frans.png"
+				},
+				"13": {
+					"name": "Stratton",
+					"picture": "assets/stratton.png"
+				},
+				"11": {
+					"name": "Paton",
+					"picture": "assets/frans.png"
+				}
+			}
+		},
+		{
+			"date": "2024-10-01",
+			"bays": {
+				"12": {
+					"name": "Leah",
+					"picture": "assets/Leah.png"
+				},
+				"14": {
+					"name": "Michelle",
+					"picture": "assets/michelle.png"
+				},
+				"13": {
+					"name": "Cam",
+					"picture": "assets/cam.png"
+				},
+				"11": {
+					"name": "Stratton",
+					"picture": "assets/stratton.png"
+				}
+			}
+		},
+		{
+			"date": "2024-10-04",
+			"bays": {
+				"12": {
+					"name": "Molly",
+					"picture": "assets/leah.png"
+				},
+				"14": {
+					"name": "Frans",
+					"picture": "assets/frans.png"
+				},
+				"13": {
+					"name": "Stratton",
+					"picture": "assets/stratton.png"
+				},
+				"11": {
+					"name": "Paton",
+					"picture": "assets/stratton.png"
+				}
+			}
+		}
+	]
+}
