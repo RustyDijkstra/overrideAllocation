@@ -7,7 +7,7 @@
 					"name": "Cam",
 					"picture": "assets/cam.png"
 				},
-				"14": {
+				"11": {
 					"name": "Frans",
 					"picture": "assets/frans.png"
 				},
@@ -15,7 +15,7 @@
 					"name": "Stratton",
 					"picture": "assets/stratton.png"
 				},
-				"11": {
+				"14": {
 					"name": "Paton",
 					"picture": "assets/frans.png"
 				}
@@ -49,7 +49,7 @@
 					"name": "Molly",
 					"picture": "assets/leah.png"
 				},
-				"14": {
+				"11": {
 					"name": "Frans",
 					"picture": "assets/frans.png"
 				},
@@ -57,7 +57,7 @@
 					"name": "Stratton",
 					"picture": "assets/stratton.png"
 				},
-				"11": {
+				"14": {
 					"name": "Paton",
 					"picture": "assets/stratton.png"
 				}
@@ -91,7 +91,7 @@
 					"name": "Leah",
 					"picture": "assets/leah.png"
 				},
-				"14": {
+				"11": {
 					"name": "Frans",
 					"picture": "assets/frans.png"
 				},
@@ -99,7 +99,7 @@
 					"name": "Molly",
 					"picture": "assets/cam.png"
 				},
-				"11": {
+				"14": {
 					"name": "Paton",
 					"picture": "assets/stratton.png"
 				}
@@ -112,7 +112,7 @@
 					"name": "Leah",
 					"picture": "assets/leah.png"
 				},
-				"14": {
+				"11": {
 					"name": "Jeffry",
 					"picture": "assets/jeffry.png"
 				},
@@ -120,7 +120,7 @@
 					"name": "Stratton",
 					"picture": "assets/stratton.png"
 				},
-				"11": {
+				"14": {
 					"name": "Patton",
 					"picture": "assets/stratton.png"
 				}
