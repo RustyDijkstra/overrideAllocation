@@ -117,11 +117,32 @@
 					"picture": "assets/jeffry.png"
 				},
 				"13": {
-					"name": "Stratton",
-					"picture": "assets/stratton.png"
+					"name": "Michelle",
+					"picture": "assets/michelle.png"
 				},
 				"14": {
 					"name": "Patton",
+					"picture": "assets/stratton.png"
+				}
+			}
+		},
+		{
+			"date": "2024-10-22",
+			"bays": {
+				"12": {
+					"name": "Leah",
+					"picture": "assets/leah.png"
+				},
+				"11": {
+					"name": "Jeffry",
+					"picture": "assets/jeffry.png"
+				},
+				"13": {
+					"name": "Cam",
+					"picture": "assets/cam.png"
+				},
+				"14": {
+					"name": "Stratton",
 					"picture": "assets/stratton.png"
 				}
 			}
