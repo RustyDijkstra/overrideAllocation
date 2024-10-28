@@ -167,6 +167,27 @@
 					"picture": "assets/adam.png"
 				}
 			}
+		},
+		{
+			"date": "2024-10-29",
+			"bays": {
+				"12": {
+					"name": "Leah",
+					"picture": "assets/leah.png"
+				},
+				"14": {
+					"name": "Adam",
+					"picture": "assets/adam.png"
+				},
+				"13": {
+					"name": "Stratton",
+					"picture": "assets/stratton.png"
+				},
+				"11": {
+					"name": "Jeffry",
+					"picture": "assets/jeffry.png"
+				}
+			}
 		}
 	]
 }
