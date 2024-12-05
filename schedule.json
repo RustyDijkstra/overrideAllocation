@@ -5,15 +5,15 @@
 			"bays": {
 				"12": {
 					"name": "Leah",
-					"picture": "assets/cam.png"
+					"picture": "assets/leah.png"
 				},
 				"11": {
 					"name": "Stratton",
-					"picture": "assets/frans.png"
+					"picture": "assets/stratton.png"
 				},
 				"13": {
 					"name": "Cam",
-					"picture": "assets/stratton.png"
+					"picture": "assets/cam.png"
 				},
 				"14": {
 					"name": "Paton",
