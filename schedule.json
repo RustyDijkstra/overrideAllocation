@@ -209,6 +209,23 @@
 					"picture": "assets/jeffry.png"
 				}
 			}
+		},
+		{
+			"date": "2024-12-11",
+			"bays": {
+				"12": {
+					"name": "",
+					"picture": "assets/Leah.png"
+				},
+				"13": {
+					"name": "Stratton",
+					"picture": "assets/Stratton.png"
+				},
+				"14": {
+					"name": "",
+					"picture": "assets/Leah.png"
+				}
+			}
 		}
 	]
 }
