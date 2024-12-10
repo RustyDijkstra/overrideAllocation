@@ -218,12 +218,29 @@
 					"picture": "assets/Leah.png"
 				},
 				"13": {
+					"name": "",
+					"picture": "assets/stratton.png"
+				},
+				"14": {
 					"name": "Stratton",
+					"picture": "assets/stratton.png"
+				}
+			}
+		},
+		{
+			"date": "2024-12-19",
+			"bays": {
+				"12": {
+					"name": "",
+					"picture": "assets/Leah.png"
+				},
+				"13": {
+					"name": "",
 					"picture": "assets/Stratton.png"
 				},
 				"14": {
-					"name": "",
-					"picture": "assets/Leah.png"
+					"name": "Stratton",
+					"picture": "assets/stratton.png"
 				}
 			}
 		}
