@@ -4,20 +4,16 @@
 			"date": "2024-11-22",
 			"bays": {
 				"12": {
-					"name": "Leah",
-					"picture": "assets/leah.png"
+					"name": "Leah"
 				},
 				"11": {
-					"name": "Stratton",
-					"picture": "assets/stratton.png"
+					"name": "Stratton"
 				},
 				"13": {
-					"name": "Cam",
-					"picture": "assets/cam.png"
+					"name": "Cam"
 				},
 				"14": {
-					"name": "Paton",
-					"picture": "assets/frans.png"
+					"name": "Paton"
 				}
 			}
 		},
@@ -25,20 +21,16 @@
 			"date": "2024-09-20",
 			"bays": {
 				"12": {
-					"name": "Cam",
-					"picture": "assets/cam.png"
+					"name": "Cam"
 				},
 				"11": {
-					"name": "Frans",
-					"picture": "assets/frans.png"
+					"name": "Frans"
 				},
 				"13": {
-					"name": "Stratton",
-					"picture": "assets/stratton.png"
+					"name": "Stratton"
 				},
 				"14": {
-					"name": "Paton",
-					"picture": "assets/frans.png"
+					"name": "Paton"
 				}
 			}
 		},
@@ -46,20 +38,16 @@
 			"date": "2024-10-01",
 			"bays": {
 				"12": {
-					"name": "Leah",
-					"picture": "assets/leah.png"
+					"name": "Leah"
 				},
 				"14": {
-					"name": "Michelle",
-					"picture": "assets/michelle.png"
+					"name": "Michelle"
 				},
 				"13": {
-					"name": "Cam",
-					"picture": "assets/cam.png"
+					"name": "Cam"
 				},
 				"11": {
-					"name": "Stratton",
-					"picture": "assets/stratton.png"
+					"name": "Stratton"
 				}
 			}
 		},
@@ -67,20 +55,16 @@
 			"date": "2024-10-04",
 			"bays": {
 				"12": {
-					"name": "Molly",
-					"picture": "assets/leah.png"
+					"name": "Molly"
 				},
 				"11": {
-					"name": "Frans",
-					"picture": "assets/frans.png"
+					"name": "Frans"
 				},
 				"13": {
-					"name": "Stratton",
-					"picture": "assets/stratton.png"
+					"name": "Stratton"
 				},
 				"14": {
-					"name": "Paton",
-					"picture": "assets/stratton.png"
+					"name": "Paton"
 				}
 			}
 		},
@@ -88,20 +72,16 @@
 			"date": "2024-10-15",
 			"bays": {
 				"12": {
-					"name": "Leah",
-					"picture": "assets/leah.png"
+					"name": "Leah"
 				},
 				"14": {
-					"name": "Michelle",
-					"picture": "assets/michelle.png"
+					"name": "Michelle"
 				},
 				"13": {
-					"name": "Cam",
-					"picture": "assets/cam.png"
+					"name": "Cam"
 				},
 				"11": {
-					"name": "Stratton",
-					"picture": "assets/stratton.png"
+					"name": "Stratton"
 				}
 			}
 		},
@@ -109,20 +89,16 @@
 			"date": "2024-10-18",
 			"bays": {
 				"12": {
-					"name": "Leah",
-					"picture": "assets/leah.png"
+					"name": "Leah"
 				},
 				"11": {
-					"name": "Frans",
-					"picture": "assets/frans.png"
+					"name": "Frans"
 				},
 				"13": {
-					"name": "Molly",
-					"picture": "assets/cam.png"
+					"name": "Molly"
 				},
 				"14": {
-					"name": "Paton",
-					"picture": "assets/stratton.png"
+					"name": "Paton"
 				}
 			}
 		},
@@ -130,20 +106,16 @@
 			"date": "2024-10-25",
 			"bays": {
 				"12": {
-					"name": "Leah",
-					"picture": "assets/leah.png"
+					"name": "Leah"
 				},
 				"11": {
-					"name": "Jeffry",
-					"picture": "assets/jeffry.png"
+					"name": "Jeffry"
 				},
 				"13": {
-					"name": "Michelle",
-					"picture": "assets/michelle.png"
+					"name": "Michelle"
 				},
 				"14": {
-					"name": "Patton",
-					"picture": "assets/stratton.png"
+					"name": "Patton"
 				}
 			}
 		},
@@ -151,20 +123,16 @@
 			"date": "2024-10-22",
 			"bays": {
 				"12": {
-					"name": "Leah",
-					"picture": "assets/leah.png"
+					"name": "Leah"
 				},
 				"11": {
-					"name": "Jeffry",
-					"picture": "assets/jeffry.png"
+					"name": "Jeffry"
 				},
 				"13": {
-					"name": "Cam",
-					"picture": "assets/cam.png"
+					"name": "Cam"
 				},
 				"14": {
-					"name": "Stratton",
-					"picture": "assets/stratton.png"
+					"name": "Stratton"
 				}
 			}
 		},
@@ -172,20 +140,16 @@
 			"date": "2024-10-28",
 			"bays": {
 				"12": {
-					"name": "Leah",
-					"picture": "assets/leah.png"
+					"name": "Leah"
 				},
 				"14": {
-					"name": "Frans",
-					"picture": "assets/frans.png"
+					"name": "Frans"
 				},
 				"13": {
-					"name": "Stratton",
-					"picture": "assets/stratton.png"
+					"name": "Stratton"
 				},
 				"11": {
-					"name": "Adam",
-					"picture": "assets/adam.png"
+					"name": "Adam"
 				}
 			}
 		},
@@ -193,20 +157,16 @@
 			"date": "2024-10-29",
 			"bays": {
 				"12": {
-					"name": "Leah",
-					"picture": "assets/leah.png"
+					"name": "Leah"
 				},
 				"14": {
-					"name": "Adam",
-					"picture": "assets/adam.png"
+					"name": "Adam"
 				},
 				"13": {
-					"name": "Stratton",
-					"picture": "assets/stratton.png"
+					"name": "Stratton"
 				},
 				"11": {
-					"name": "Jeffry",
-					"picture": "assets/jeffry.png"
+					"name": "Jeffry"
 				}
 			}
 		},
@@ -214,16 +174,13 @@
 			"date": "2024-12-11",
 			"bays": {
 				"12": {
-					"name": "",
-					"picture": "assets/Leah.png"
+					"name": ""
 				},
 				"13": {
-					"name": "",
-					"picture": "assets/stratton.png"
+					"name": ""
 				},
 				"14": {
-					"name": "Stratton",
-					"picture": "assets/stratton.png"
+					"name": "Stratton"
 				}
 			}
 		},
@@ -231,16 +188,13 @@
 			"date": "2024-12-19",
 			"bays": {
 				"12": {
-					"name": "",
-					"picture": "assets/Leah.png"
+					"name": ""
 				},
 				"13": {
-					"name": "",
-					"picture": "assets/Stratton.png"
+					"name": ""
 				},
 				"14": {
-					"name": "Stratton",
-					"picture": "assets/stratton.png"
+					"name": "Stratton"
 				}
 			}
 		}
